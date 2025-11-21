@@ -63,7 +63,7 @@ TuZhi AI is a cutting-edge Discord bot powered by Google's Gemini AI, featuring 
 ✅ Error Recovery
 ✅ Typing Indicators
 ✅ Clean Message Handling
-
+```
 ---
 
 ## 📁 Project Structure
