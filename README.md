@@ -230,9 +230,8 @@ Bot: [understands context] "Sure! JavaScript basic se..."
 
 **Bot not responding:**
 ```bash
-1. Check if AI is activated: /ai-debug
-2. Verify API key in .env
-3. Check console for errors
+1. Verify API key in .env
+2. Check console for errors
 ```
 
 **"API limit khatam" error:**
