@@ -161,7 +161,7 @@ const COOLDOWN_TIME = 3000;    // Cooldown in ms
 ```javascript
 // In utils/aiHandler.js
 customEmojis: [
-    '<:your_emoji:emoji_id>',
+    '<:TuZhiCodes:12345678>',
     '<:another_emoji:emoji_id>',
 ]
 ```
