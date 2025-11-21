@@ -288,7 +288,7 @@ Join our Discord server for:
 **⭐ Star this repo if you found it helpful!**
 
 [![GitHub Stars](https://img.shields.io/github/stars/tuzhicodes/TuZhi-Ai?style=social)](https://github.com/YourUsername/tuzhi-ai-bot)
-[![GitHub Forks](https://img.shields.io/github/forks/tuzhicodes/TuZhi-Ai?style=social)](https://github.com/tuzhicodes/TuZhi-Ai/fork)
+[![GitHub Forks](https://img.shields.io/github/forks/tuzhicodes/TuZhi-Ai?style=social)]([https://github.com/tuzhicodes/TuZhi-Ai/fork](https://github.com/tuzhicodes/TuZhi-Ai/fork))
 
 ---
 
